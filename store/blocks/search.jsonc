@@ -49,6 +49,9 @@
       "order-by.v2"
     ]
   },
+  "gallery": {
+    "blocks": ["product-summary.shelf"]
+  },
   "search-content": {
     "blocks": ["gallery", "not-found"]
   }
