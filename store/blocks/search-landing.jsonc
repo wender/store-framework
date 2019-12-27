@@ -18,7 +18,7 @@
                 "hideUnavailableItems": true,
                 "maxItemsPerPage": 8,
                 "mapField": "ft",
-                "restField":  "Blue Top Retro Camera"
+                "queryField":  "Blue Top Retro Camera"
             }
         }
     }
