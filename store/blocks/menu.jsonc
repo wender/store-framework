@@ -11,6 +11,16 @@
     },
     "menu-item#major-appliances": {
         "children": [
+            "vtex.menu@2.x:submenu#major"
+        ]
+    },
+    "vtex.menu@2.x:submenu#major": {
+        "children": [
+            "vtex.menu@2.x:menu#major"
+        ]
+    },
+    "vtex.menu@2.x:menu#major": {
+        "children": [
             "menu-item#refrigerators",
             "menu-item#ovens",
             "menu-item#washers"
@@ -20,28 +30,33 @@
         }
     },
     "menu-item#small-appliances": {
-        "children":[
+        "children": [
+            "vtex.menu@2.x:submenu#small"
+        ]
+    },
+    "vtex.menu@2.x:submenu#small": {
+        "children": [
             "menu-item#mixers",
             "menu-item#toasters",
             "menu-item#coffee"
         ],
-        "props":{
-            "orientation":"vertical"
+        "props": {
+            "orientation": "vertical"
         }
     },
-    "menu-item#electronics":{
-        "children":[
+    "menu-item#electronics": {
+        "children": [
             "vtex.menu@2.x:submenu#electronics"
         ]
     },
     "vtex.menu@2.x:submenu#electronics": {
-        "children":[
+        "children": [
             "menu-item#cameras",
             "menu-item#laptops",
             "menu-item#tvs"
         ],
-        "props":{
-            "orientation":"vertical"
+        "props": {
+            "orientation": "vertical"
         }
     }
 }
