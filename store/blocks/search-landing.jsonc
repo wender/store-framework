@@ -1,0 +1,23 @@
+{
+    "store.custom#landing": {
+        "blocks": [
+            "image#landingbanner",
+            "search-result-layout.customQuery"
+        ]
+    },
+    "image#landingbanner": {
+        "props": {
+            "minWidth": "100%",
+            "src": "https://cdn.collider.com/wp-content/uploads/2019/07/rick-and-morty-season-4-slice-600x200.jpeg"
+        }
+    },
+    "search-result-layout.customQuery": {
+        "props": {
+            "orderByField": "OrderByReleaseDateDESC",
+            "hideUnavailableItems": true,
+            "maxItemsPerPage": 8,
+            "queryField": "Blue Top Retro Camera",
+            "mapField": "ft"
+        }
+    }
+}
