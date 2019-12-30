@@ -20,11 +20,6 @@
             "flex-layout.col#img"
         ]
     },
-    "flex-layout.col#menu": {
-        "children":[
-            "vtex.menu@2.x:menu#major"
-        ]
-    },
     "vtex.menu@2.x:menu#major": {
         "children": [
             "menu-item#refrigerators",
@@ -33,32 +28,6 @@
         ],
         "props": {
             "orientation": "vertical"
-        }
-    },
-    "flex-layout.col#img": {
-        "children":[
-            "image#menu",
-            "rich-text#header"
-        ],
-        "props": {
-            "paddingRight": 4,
-            "horizontalAlign": "right"
-        }
-    },
-    "image#menu": {
-        "props": {
-          "src": "https://appliancetheme.vteximg.com.br/arquivos/menu-washer.jpg",
-          "link": {
-            "url": "/small-appliances/coffee-makers"
-          },
-          "alt": "Coffee Makers Collection",
-          "maxWidth": "200px"
-        }
-    },
-    "rich-text#header": {
-        "props": {
-            "text": "**Free Shipping on orders over $50**",
-            "textPosition": "CENTER"
         }
     },
     "vtex.menu@2.x:submenu#small": {
