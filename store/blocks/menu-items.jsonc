@@ -16,7 +16,7 @@
       "type": "category",
       "highlight": true,
       "itemProps": {
-        "categoryId": 2,
+        "categoryId": 140,
         "text": "Small Appliances"
       }
     },
@@ -29,7 +29,7 @@
       "type": "category",
       "highlight": true,
       "itemProps": {
-        "categoryId": 3,
+        "categoryId": 100,
         "text": "Electronics"
       }
     },
@@ -42,7 +42,7 @@
       "type": "category",
       "highlight": true,
       "itemProps": {
-        "categoryId": 4,
+        "categoryId": 154,
         "text": "Refrigerators"
       }
     }
@@ -52,7 +52,7 @@
       "type": "category",
       "highlight": true,
       "itemProps": {
-        "categoryId": 5,
+        "categoryId": 146,
         "text": "Ranges & Ovens"
       }
     }
@@ -62,7 +62,7 @@
       "type": "category",
       "highlight": true,
       "itemProps": {
-        "categoryId": 6,
+        "categoryId": 148,
         "text": "Washers & Dryers"
       }
     }
@@ -72,7 +72,7 @@
       "type": "category",
       "highlight": true,
       "itemProps": {
-        "categoryId": 7,
+        "categoryId": 100,
         "text": "Mixers & Blenders"
       }
     }
@@ -82,7 +82,7 @@
       "type": "category",
       "highlight": true,
       "itemProps": {
-        "categoryId": 8,
+        "categoryId": 146,
         "text": "Toasters & Grills"
       }
     }
@@ -92,7 +92,7 @@
       "type": "category",
       "highlight": true,
       "itemProps": {
-        "categoryId": 9,
+        "categoryId": 154,
         "text": "Coffee Makers"
       }
     }
@@ -102,7 +102,7 @@
       "type": "category",
       "highlight": true,
       "itemProps": {
-        "categoryId": 10,
+        "categoryId": 148,
         "text": "TVs"
       }
     }
@@ -112,7 +112,7 @@
       "type": "category",
       "highlight": true,
       "itemProps": {
-        "categoryId": 11,
+        "categoryId": 100,
         "text": "Laptops"
       }
     }
@@ -122,7 +122,7 @@
       "type": "category",
       "highlight": true,
       "itemProps": {
-        "categoryId": 12,
+        "categoryId": 154,
         "text": "Cameras"
       }
     }
