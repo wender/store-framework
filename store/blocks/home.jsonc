@@ -5,11 +5,17 @@
       "info-card#button-right",
       "info-card#button-left",
       "flex-layout.row",
+      "countdown#blackfriday",
       "shelf",
       "slider-layout#home",
       "responsive-layout.desktop#desktop",
       "responsive-layout.mobile#mobile"
     ]
+  },
+  "countdown#blackfriday": {
+    "props": {
+      "targetDate": "2020-01-02T22:00:00.000Z"
+    }
   },
   "rich-text": {
     "props": {
